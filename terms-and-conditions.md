@@ -1,122 +1,136 @@
 # ROAMO Terms and Conditions
 
+**Last Updated: April 22, 2026**
+
 ## 1. Acceptance of Terms
 By using ROAMO, you agree to these Terms.
 
 If you do not agree, do not use the app.
 
+Continued use of ROAMO after updates to these Terms means you accept the revised Terms.
+
 ---
 
-## 2. User Accounts
+## 2. Platform Overview
+ROAMO is a platform for sharing user-generated content tied to real-world locations.
+
+Users control what they post and how they interact with the platform.
+
+---
+
+## 3. User Accounts
 You are responsible for:
-- Your account  
-- Your activity  
-- Keeping login credentials secure  
+- Your account and activity  
+- Maintaining the confidentiality of your login credentials  
+- All content posted through your account  
 
-We may suspend or terminate accounts at our discretion.
+We may suspend or terminate accounts that violate these Terms.
 
 ---
 
-## 3. User-Generated Content
+## 4. User-Generated Content
 
-You retain ownership of your content.
+You retain ownership of the content you create.
 
-By posting on ROAMO, you grant ROAMO a:
+By posting content on ROAMO, you grant ROAMO a:
 **worldwide, perpetual, irrevocable, royalty-free, transferable, sublicensable license**
-to use, display, reproduce, modify, distribute, and promote your content for:
-- Platform functionality  
-- Marketing and promotions  
-- Advertising  
-- Future product features  
 
-This includes use outside the app.
+to use, host, store, reproduce, modify, distribute, and promote your content for:
+- Operating the platform  
+- Displaying content within ROAMO  
+- Marketing and promoting ROAMO  
+- Future product features and services  
 
----
-
-## 4. Public Nature of Content
-All content is considered public.
-
-ROAMO is not responsible for how others use or interpret your content.
+This license applies only to content you choose to share.
 
 ---
 
-## 5. Content Rules
+## 5. Content Visibility
+Content shared on ROAMO may be visible to other users and, depending on context, may become publicly accessible.
 
-You agree not to post:
-
-- Nudity or sexually explicit content  
-- Profanity or abusive content  
-- Harassment, threats, or hate speech  
-- False or misleading information  
-- Content that violates laws  
-- Content involving private property without permission  
-- Content depicting individuals without appropriate consent  
-
-You are solely responsible for what you post.
+You should only share content you are comfortable making visible to others.
 
 ---
 
-## 6. Location & Property Responsibility
-You agree that:
-- You will not trespass or violate property rights  
-- You are responsible for obtaining any necessary permissions  
-- ROAMO is not responsible for user actions in the real world  
+## 6. Content Guidelines
+You agree not to post content that:
+- Contains nudity or sexually explicit material  
+- Includes harassment, threats, or hate speech  
+- Is unlawful, misleading, or deceptive  
+- Violates privacy rights or depicts individuals without consent  
+- Involves private property without permission  
+
+You are solely responsible for your content.
 
 ---
 
-## 7. Reporting & Moderation
-ROAMO provides tools to report content, locations, and users.
+## 7. Location & Real-World Responsibility
+ROAMO is a digital platform that interacts with real-world locations.
 
-We actively moderate but:
-- Do not guarantee immediate removal  
-- Do not guarantee all violations will be caught  
+You agree:
+- Not to trespass or violate property rights  
+- Not to use ROAMO in a way that violates laws or endangers safety  
+- That you are responsible for obtaining necessary permissions before posting  
 
-We reserve the right to remove content or accounts at any time.
-
----
-
-## 8. Takedown Requests
-For content removal, contact: [INSERT EMAIL]
-
-We will review and take action where appropriate.
+ROAMO does not encourage unsafe or unlawful activity.
 
 ---
 
-## 9. No Liability
-ROAMO is not liable for:
+## 8. Moderation and Reporting
+ROAMO provides tools for users to report content, locations, and accounts.
+
+We moderate content and may remove or restrict access to content that violates these Terms.
+
+We do not pre-approve all content before it is published.
+
+---
+
+## 9. Takedown Requests
+If you believe content should be removed, contact: [INSERT EMAIL]
+
+We will review and take appropriate action.
+
+---
+
+## 10. Advertising and Monetization
+ROAMO may display advertisements and promote third-party services.
+
+We may also introduce paid features or subscriptions in the future.
+
+---
+
+## 11. No Warranty
+ROAMO is provided “as is” without warranties of any kind.
+
+We do not guarantee:
+- Accuracy of user-generated content  
+- Availability of the service  
+- Error-free operation  
+
+---
+
+## 12. Limitation of Liability
+To the maximum extent permitted by law, ROAMO is not liable for:
 - User-generated content  
-- Inaccurate or misleading information  
+- Actions taken by users in the real world  
 - Misuse of the platform  
-- Real-world actions taken based on app content  
-
-Use ROAMO at your own risk.
+- Losses arising from use of the app  
 
 ---
 
-## 10. Advertising & Monetization
-ROAMO may:
-- Display advertisements  
-- Promote businesses  
-- Introduce paid subscriptions  
-
-Content may be used in connection with these features.
+## 13. Termination
+We may suspend or terminate access to ROAMO at any time for violations of these Terms or legal requirements.
 
 ---
 
-## 11. Termination
-We may suspend or terminate access:
-- For violations  
-- For legal reasons  
-- At our discretion  
+## 14. Governing Law
+These Terms are governed by the laws of the State of California, United States.
 
 ---
 
-## 12. Governing Law
-These Terms are governed by the laws of the State of California.
+## 15. Changes to Terms
+We may update these Terms from time to time.
 
----
+When we do, we will revise the “Last Updated” date above.
 
-## 13. Changes to Terms
-We may update these Terms at any time.
-
-Continued use of ROAMO means you accept the changes.
+Continued use of ROAMO after changes means you accept the updated Terms.

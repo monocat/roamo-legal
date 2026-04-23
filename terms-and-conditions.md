@@ -86,7 +86,7 @@ We do not pre-approve all content before it is published.
 ---
 
 ## 9. Takedown Requests
-If you believe content should be removed, contact: [INSERT EMAIL]
+If you believe content should be removed, contact: legal@roamo.me
 
 We will review and take appropriate action.
 

@@ -119,7 +119,7 @@ You may:
 - Request removal of content  
 - Contact us regarding privacy concerns  
 
-Contact: [INSERT EMAIL]
+Contact: legal@roamo.me
 
 ---
 

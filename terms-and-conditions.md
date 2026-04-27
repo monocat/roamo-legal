@@ -1,8 +1,10 @@
 # ROAMO Terms and Conditions
 
-**Last Updated: April 22, 2026**
+**Last Updated: April 27, 2026**
 
 ## 1. Acceptance of Terms
+ROAMO is operated by Practical Pixel Studio LLC, a California-based company.
+
 By using ROAMO, you agree to these Terms.
 
 If you do not agree, do not use the app.
@@ -32,7 +34,7 @@ We may suspend or terminate accounts that violate these Terms.
 
 You retain ownership of the content you create.
 
-By posting content on ROAMO, you grant ROAMO a:
+By posting content on ROAMO, you grant ROAMO (operated by Practical Pixel Studio LLC) a:
 **worldwide, perpetual, irrevocable, royalty-free, transferable, sublicensable license**
 
 to use, host, store, reproduce, modify, distribute, and promote your content for:
@@ -110,7 +112,7 @@ We do not guarantee:
 ---
 
 ## 12. Limitation of Liability
-To the maximum extent permitted by law, ROAMO is not liable for:
+To the maximum extent permitted by law, ROAMO (operated by Practical Pixel Studio LLC) is not liable for:
 - User-generated content  
 - Actions taken by users in the real world  
 - Misuse of the platform  

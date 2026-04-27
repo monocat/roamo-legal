@@ -1,9 +1,11 @@
 # ROAMO Privacy Policy
 
-**Last Updated: April 22, 2026**
+**Last Updated: April 27, 2026**
 
 ## 1. Overview
 ROAMO is a community-based platform where users share location-based content, including photos, videos, and written posts.
+
+ROAMO is operated by Practical Pixel Studio LLC, a California-based company.
 
 This Privacy Policy explains what information we collect, how we use it, and the choices you have.
 
